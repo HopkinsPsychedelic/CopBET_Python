@@ -1,4 +1,11 @@
 # Copenhagen Brain Entropy Toolbox - Python
+
+**Brian Winston<sup>1,2</sup>, Viswanath Missula<sup>2</sup>, and Janice Chen<sup>2</sup>**
+
+<sup>1</sup> *Center for Psychedelic and Consciousness Research, Johns Hopkins School of Medicine*
+
+<sup>2</sup> *Department of Psychological and Brain Sciences, Johns Hopkins University*
+
 A Python package/wrapper for the Copenhagen Brain Entropy Toolbox (CopBET), a collection of functions for evaluating 12 different entropy metrics described in the paper [Navigating the chaos of psychedelic neuroimaging: A multi-metric evaluation of acute psilocybin effects on brain entropy" by Drummond McCulloch, Anders S Olsen et al (MedRxiv)](https://www.medrxiv.org/content/10.1101/2023.07.03.23292164v1). 
 Original toolbox published at https://github.com/anders-s-olsen/CopBET.git.
 
