@@ -22,7 +22,7 @@ To use this package follow the steps below.
    ```git clone https://github.com/anders-s-olsen/CopBET.git```
 
 ## Example script
-Included is an example iPython Notebook entitled `CopBET_python_tutorial.ipynb` showing examples and explanations of how to use the wrapper. The example script runs using the openly available [acute IV LSD dataset](https://openneuro.org/datasets/ds003059) that was included in original repository's example script. Unlike the original repository, the example was not written to be used on the entire original dataset but rather the smaller sample already in the /CopBET/LSDdata folder. We recommend that you make a script or notebook analogous to this one for your own dataset.
+Included is an example iPython Notebook entitled [`CopBET_python_tutorial.ipynb`](https://github.com/HopkinsPsychedelic/CopBET_Python/blob/main/CopBET_python_tutorial.ipynb) showing examples and explanations of how to use the wrapper. The example script runs using the openly available [acute IV LSD dataset](https://openneuro.org/datasets/ds003059) that was included in original repository's example script. Unlike the original repository, the example was not written to be used on the entire original dataset but rather the smaller sample already in the /CopBET/LSDdata folder. We recommend that you make a script or notebook analogous to this one for your own dataset.
 
 ## Python versions and dependencies
 This package and wrapper was developed, tested, and implemented using 3.12 and 3.13.
