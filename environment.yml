@@ -1,0 +1,18 @@
+# This file may be used to create an environment using:
+# conda env create -n YOUR_ENV_NAME -f environment.yml
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - nibabel
+  - nilearn
+  - jupyter
+  - ipython
+  - pip
+  - pip:
+    - matlabengine
