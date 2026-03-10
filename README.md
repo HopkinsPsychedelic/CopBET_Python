@@ -38,7 +38,7 @@ An `environment.yml` file is provided that includes all required dependencies ex
 
    To find the right version for your MATLAB, run `matlab -batch "disp(version)"` in a terminal and match the year and release letter. You can also browse all available versions on [PyPI](https://pypi.org/project/matlabengine/#history). For more details, see the [official MathWorks documentation](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html).
 
-3. Clone the original CopBET repository to your machine (although some of the helper functions will work fine without).
+3. Clone the original CopBET repository to your machine in a different location than within this repo.
 
    ```git clone https://github.com/anders-s-olsen/CopBET.git```
 
