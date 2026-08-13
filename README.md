@@ -6,7 +6,7 @@
 
 <sup>2</sup> *Department of Psychological and Brain Sciences, Johns Hopkins University*
 
-A Python package/wrapper for the [Copenhagen Brain Entropy Toolbox (CopBET)](https://github.com/anders-s-olsen/CopBET), a collection of functions for evaluating 12 different entropy metrics described in the paper [Navigating the chaos of psychedelic neuroimaging: A multi-metric evaluation of acute psilocybin effects on brain entropy" by Drummond McCulloch, Anders S Olsen et al (MedRxiv)](https://www.medrxiv.org/content/10.1101/2023.07.03.23292164v1). All credit for entropy measures goes to the original authors (see MedRxiv).
+A Python package/wrapper for the [Copenhagen Brain Entropy Toolbox (CopBET)](https://github.com/anders-s-olsen/CopBET), a collection of functions for evaluating 12 different entropy metrics described in the paper ["Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy" by Drummond McCulloch, Anders S Olsen et al (Nature Communications)](https://www.nature.com/articles/s41467-026-74215-5). All credit for entropy measures goes to the original authors (see article).
 
 
 ## Installation guide
@@ -55,9 +55,9 @@ If you use this toolbox in your research, please cite the following:
 
 [insert DOI via Zenodo]
 
-Drummond McCulloch, Anders S Olsen, et al. "Navigating the chaos of psychedelic neuroimaging: A multi-metric evaluation of acute psilocybin effects on brain entropy". (MedRxiv), 2023.
+Drummond McCulloch, Anders S Olsen, et al. ["Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy"](https://www.nature.com/articles/s41467-026-74215-5) in Nature Communications
 
-Original author of whichever entropy measure you used (e.g. if you use meta-state complexity, you should also cite Singleton et. al, 2022). See the MedRxiv paper for details on this. 
+Original author of whichever entropy measure you used (e.g. if you use meta-state complexity, you should also cite Singleton et. al, 2022). See the NatComms article for details on this. 
 
 ## Contributing/reporting bugs
 If you would like to contribute, report any bugs or have any questions, please email Brian Winston (brian.winston@jhu.edu).
